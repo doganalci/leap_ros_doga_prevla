@@ -1,0 +1,2 @@
+leap_motion
+-DCATKIN_DEVEL_PREFIX=/home/doga18/Desktop/prevla_leap_doga/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/doga18/Desktop/prevla_leap_doga/catkin_ws/install -G Unix Makefiles
